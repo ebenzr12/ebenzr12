@@ -17,4 +17,4 @@ IoT • Machine Learning • Embedded Systems • Technology Development
 
 📫 **Let's connect**
 
-[LinkedIn](linkedin.com/in/eben-ezer-limbong) 
+[LinkedIn](linkedin.com/in/eben-ezer-limbong/)
