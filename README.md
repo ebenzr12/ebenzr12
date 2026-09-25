@@ -1,12 +1,20 @@
 # Hey, I'm Eben 👋
 
-**Telecommunication Engineering Student @ Telkom University**
+**Telecommunication Engineering Student at Telkom University**
 
-> IoT • Machine Learning • Research & Development
-
-Currently exploring technology, building things, and learning something new along the way.
+> IoT & Machine Learning Enthusiast | Research & Development
 
 ### 🔬 Research & Development
 
 Communication System Laboratory
 Telkom University
+
+### 💡 Interests
+
+IoT • Machine Learning • Embedded Systems • Technology Development
+
+---
+
+📫 **Let's connect**
+
+[LinkedIn](linkedin.com/in/eben-ezer-limbong) 
