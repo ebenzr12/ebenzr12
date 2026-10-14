@@ -1,7 +1,15 @@
-# Hi, I'm Eben Ezer Limbong 👋
+<h1 align="center">Hi, I'm Eben Ezer Limbong 👋</h1>
 
-**Telecommunication Engineering Student @ Telkom University**
-IoT & Machine Learning Enthusiast — building data-driven solutions for health, business, and connected systems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+%7C+Machine+Learning;IoT+%26+Telecommunication+Engineering;Data+Analytics+with+BigQuery" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <b>Telecommunication Engineering Student @ Telkom University</b><br>
+  Building data-driven solutions for health, business, and connected systems.
+</p>
+
+---
 
 ## 🔭 Tentang Saya
 - 🎓 S1 Teknik Telekomunikasi, Telkom University
@@ -13,6 +21,7 @@ IoT & Machine Learning Enthusiast — building data-driven solutions for health,
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -27,9 +36,17 @@ IoT & Machine Learning Enthusiast — building data-driven solutions for health,
 | [Kimia-Farma-Big-Data-Analytics](https://github.com/ebenzr12/Kimia-Farma-Big-Data-Analytics) | Analisis kinerja bisnis Kimia Farma menggunakan BigQuery SQL (Project-Based Internship Rakamin Academy) | BigQuery SQL |
 | [Eben-Portofolio](https://github.com/ebenzr12/Eben-Portofolio) | Website portofolio: proyek, skill, dan pengalaman | JavaScript |
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ebenzr12&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebenzr12&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
+## 📈 Aktivitas
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ebenzr12&theme=tokyo-night&hide_border=true)
+
+## 🏆 Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=ebenzr12&theme=tokyonight&no-frame=true&no-bg=true&column=6)
+
+## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebenzr12/ebenzr12/output/github-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ebenzr12/ebenzr12/output/github-snake.svg" />
+</picture>
 
 ## 📫 Kontak
 [LinkedIn](https://linkedin.com/in/USERNAME-KAMU) · [Portofolio](https://LINK-PORTOFOLIO-KAMU) · Email: EMAIL-KAMU
