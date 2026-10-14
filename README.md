@@ -49,4 +49,4 @@
 </picture>
 
 ## 📫 Kontak
-[LinkedIn](https://linkedin.com/in/USERNAME-KAMU) · [Portofolio](https://LINK-PORTOFOLIO-KAMU) · Email: EMAIL-KAMU
+[LinkedIn]([https://linkedin.com/in/](https://www.linkedin.com/in/eben-ezer-limbong/)) · [Portofolio](https://eben-portofolio.vercel.app/) · Email: ebenzr25@gmsail.com
