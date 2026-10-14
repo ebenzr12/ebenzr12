@@ -9,9 +9,6 @@
   Building data-driven solutions for health, business, and connected systems.
 </p>
 
-> [!IMPORTANT]
-> 👉 **Klik di sini untuk melihat portofolio lengkap saya:** [eben-portofolio.vercel.app](https://eben-portofolio.vercel.app/)
-
 ---
 
 ## 🔭 Tentang Saya
@@ -39,20 +36,24 @@
 | [Kimia-Farma-Big-Data-Analytics](https://github.com/ebenzr12/Kimia-Farma-Big-Data-Analytics) | Analisis kinerja bisnis Kimia Farma menggunakan BigQuery SQL (Project-Based Internship Rakamin Academy) | BigQuery SQL |
 | [Eben-Portofolio](https://github.com/ebenzr12/Eben-Portofolio) | Website portofolio: proyek, skill, dan pengalaman | JavaScript |
 
-## 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebenzr12/ebenzr12/output/github-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/ebenzr12/ebenzr12/output/github-snake.svg" />
-</picture>
+## 🧭 Alur Kerja Machine Learning Saya
+
+```mermaid
+flowchart LR
+    A[📥 Data] --> B[🧹 Preprocessing]
+    B --> C[🔍 EDA]
+    C --> D[🤖 Modeling]
+    D --> E[📊 Evaluasi]
+    E --> F[🚀 Deployment]
+```
 
 ## 📫 Kontak
+
+> [!IMPORTANT]
+> 👉 **Klik di sini untuk melihat portofolio lengkap saya:** [eben-portofolio.vercel.app](https://eben-portofolio.vercel.app/)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eben-ezer-limbong/"><img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://eben-portofolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="36" alt="Portfolio" /></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/_ebenezr/"><img src="https://skillicons.dev/icons?i=instagram" height="36" alt="Instagram" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ebenzr12&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
 </p>
