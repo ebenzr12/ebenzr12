@@ -36,21 +36,11 @@
 | [Kimia-Farma-Big-Data-Analytics](https://github.com/ebenzr12/Kimia-Farma-Big-Data-Analytics) | Analisis kinerja bisnis Kimia Farma menggunakan BigQuery SQL (Project-Based Internship Rakamin Academy) | BigQuery SQL |
 | [Eben-Portofolio](https://github.com/ebenzr12/Eben-Portofolio) | Website portofolio: proyek, skill, dan pengalaman | JavaScript |
 
-## 🧭 Alur Kerja Machine Learning Saya
-
-```mermaid
-flowchart LR
-    A[📥 Data] --> B[🧹 Preprocessing]
-    B --> C[🔍 EDA]
-    C --> D[🤖 Modeling]
-    D --> E[📊 Evaluasi]
-    E --> F[🚀 Deployment]
-```
 
 ## 📫 Kontak
 
 > [!IMPORTANT]
-> 👉 **Klik di sini untuk melihat portofolio lengkap saya:** [eben-portofolio.vercel.app](https://eben-portofolio.vercel.app/)
+> 👉 **Klik di sini untuk melihat info lebih lengkap tentang saya:** 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eben-ezer-limbong/"><img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn" /></a>&nbsp;&nbsp;
