@@ -6,7 +6,6 @@
 
 <p align="center">
   <b>Telecommunication Engineering Student @ Telkom University</b><br>
-  Building data-driven solutions for health, business, and connected systems.
 </p>
 
 ---
